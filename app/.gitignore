@@ -1,0 +1,25 @@
+# Flutter/Dart-specific files
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Flutter build
+build/
+
+# iOS
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Pods/
+.ios/
+.symlinks/
+
+# Android
+.gradle/
+.idea/
+*.iml
+*.apk
+*.aar
+*.lock
+android/app/debug.keystore
+android/local.properties
